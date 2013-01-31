@@ -1,3 +1,11 @@
-README :
+--------------------------
+VitryHub Theme
 
-Replace the image elgg_sprites.png in http://your-elgg-installation/_graphics/elgg_sprites.png
+-----Description----------
+VitryHub Theme is a plugin mix between awesome facebook_theme templates and Bootstrap from twitter elements.
+
+-----Requirement----------
+Elgg 1.8 
+
+-----Installation---------
+same steps to install elgg plugin 
